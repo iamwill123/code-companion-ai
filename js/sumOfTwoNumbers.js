@@ -1,4 +1,4 @@
-function sumOfNumbers(...args) {
+function sumOfXNumbers(...args) {
     const n = args.length;
     let sum = 0;
     for (let i = 0; i < n; i++) {
@@ -7,4 +7,4 @@ function sumOfNumbers(...args) {
     return sum;
 }
 
-console.log(sumOfNumbers(1, 2, 3, 1)) // 7
+console.log(sumOfXNumbers(1, 2, 3, 1)) // 7
