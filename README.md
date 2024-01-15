@@ -1,4 +1,5 @@
 # Code Companion AI
+![cat-lazer-eyes](https://github.com/iamwill123/code-companion-ai/assets/15272175/f2c136d1-91bd-4f74-b31a-eb24c65978e4)
 
 ## Welcome to Code Companion AI!
 
