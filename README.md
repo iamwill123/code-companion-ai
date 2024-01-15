@@ -1,4 +1,4 @@
-# Code Companion AI (pending marketplace approval, app will not be working just yet)
+# Code Companion AI
 
 ## Welcome to Code Companion AI!
 
